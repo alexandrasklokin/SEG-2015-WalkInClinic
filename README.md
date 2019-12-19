@@ -8,8 +8,6 @@ Group 2
 - Salomé Dionne-Laforest
 - Arman Kompany Zare
 
-https://github.com/Radical1377/SEG-2105-WalkInClinic
-
 Build Status[![BuildStatus](https://circleci.com/gh/Radical1377/SEG-2105-WalkInClinic.png?branch=master)](https://circleci.com/gh/Radical1377/SEG-2105-WalkInClinic)
 
 ![UML Diagram](https://github.com/Radical1377/SEG-2105-WalkInClinic/raw/master/UMLdeliverable4.png)
